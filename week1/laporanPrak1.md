@@ -1,11 +1,12 @@
 # Laporan Praktikum Week 1
 
-Nama       : Ivan Radithya Tanaya Ardianto
-NIM        : 103072430005
-Kelas      : IF-04-05
-Mata Kuliah: Jaringan Komputer
+Nama       : Ivan Radithya Tanaya Ardianto<br>
+NIM        : 103072430005<br>
+Kelas      : IF-04-05<br>
+Mata Kuliah: Jaringan Komputer<br>
 __________________________________________
 
+<br><br>
 
 ## Instalasi Wireshark (modul 1)
 
@@ -15,6 +16,7 @@ __________________________________________
 3. Setelah file didownload klik open file
 4. Lakukan installation setup mulai dari peletakan direktori instalasi sampai proses instalasi selesai
 
+<br><br>
 
 ### Lampiran
 - Download page
@@ -42,7 +44,7 @@ __________________________________________
 - Installation Done<br>
 ![install setup done](../assets/image/installationSetupDone.png)
 
-
+<br><br><br>
 
 ## Tugas Praktikum week 1 (modul 2)
 
@@ -55,14 +57,14 @@ __________________________________________
 6. pilih yang ada tulisan "(text/html)"
 7. klik panah pada tulisan "Line-based text data", akan menampilkan: 
 ```
-    html
-    <html>\n 
-    Congratulations! You've download the first Wireshark lab file!
-    </html>\n
+<html>\n 
+Congratulations! You've download the first Wireshark lab file!
+</html>\n
 ```
 
 **Untuk keluar bisa klik stop capture pada menu, kemudian close this capture file**
 
+<br><br>
 
 ### Lampiran
 - Tampilan Wireshark
