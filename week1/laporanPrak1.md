@@ -6,7 +6,7 @@ Kelas      : IF-04-05<br>
 Mata Kuliah: Jaringan Komputer<br>
 __________________________________________
 
-<br><br>
+<br>
 
 ## Instalasi Wireshark (modul 1)
 
@@ -16,7 +16,7 @@ __________________________________________
 3. Setelah file didownload klik open file
 4. Lakukan installation setup mulai dari peletakan direktori instalasi sampai proses instalasi selesai
 
-<br><br>
+<br>
 
 ### Lampiran
 - Download page
@@ -44,7 +44,7 @@ __________________________________________
 - Installation Done<br>
 ![install setup done](../assets/image/installationSetupDone.png)
 
-<br><br><br>
+<br><br>
 
 ## Tugas Praktikum week 1 (modul 2)
 
@@ -56,7 +56,7 @@ __________________________________________
 5. Ketik pada bagian filter di wireshark "http" (tanpa tanda kutip)
 6. pilih yang ada tulisan "(text/html)"
 7. klik panah pada tulisan "Line-based text data", akan menampilkan: 
-```
+```html
 <html>\n 
 Congratulations! You've download the first Wireshark lab file!
 </html>\n
@@ -64,7 +64,7 @@ Congratulations! You've download the first Wireshark lab file!
 
 **Untuk keluar bisa klik stop capture pada menu, kemudian close this capture file**
 
-<br><br>
+<br>
 
 ### Lampiran
 - Tampilan Wireshark
