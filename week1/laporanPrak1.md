@@ -18,29 +18,29 @@ __________________________________________
 
 ### Lampiran
 Download page
-![Wireshark Website](../assets/image/wiresharkWebsite.png)
+![Wireshark Website](assets/image/wiresharkWebsite.png)
 Installation Part 1
-![install setup part 1](../assets/image/installationSetupPart1.png)
+![install setup part 1](assets/image/installationSetupPart1.png)
 Installation Part 2
-![install setup part 2](../assets/image/installationSetupPart2.png)
+![install setup part 2](assets/image/installationSetupPart2.png)
 Installation Part 3
-![install setup part 3](../assets/image/installationSetupPart3.png)
+![install setup part 3](assets/image/installationSetupPart3.png)
 Installation Part 4
-![install setup part 4](../assets/image/installationSetupPart4.png)
+![install setup part 4](assets/image/installationSetupPart4.png)
 Installation Part 5
-![install setup part 5](../assets/image/installationSetupPart5.png)
+![install setup part 5](assets/image/installationSetupPart5.png)
 Installation Part 6
-![install setup part 6](../assets/image/installationSetupPart6.png)
+![install setup part 6](assets/image/installationSetupPart6.png)
 Installation Part 7
-![install setup part 7](../assets/image/installationSetupPart7.png)
+![install setup part 7](assets/image/installationSetupPart7.png)
 Installation Part 8
-![install setup part 8](../assets/image/installationSetupPart8.png)
+![install setup part 8](assets/image/installationSetupPart8.png)
 Installation Part 9
-![install setup part 9](../assets/image/installationSetupPart9.png)
+![install setup part 9](assets/image/installationSetupPart9.png)
 Installation Part 10
-![install setup part 10](../assets/image/installationSetupPart10.png)
+![install setup part 10](assets/image/installationSetupPart10.png)
 Installation Done
-![install setup done](../assets/image/installationSetupDone.png)
+![install setup done](assets/image/installationSetupDone.png)
 
 
 
@@ -66,12 +66,12 @@ Installation Done
 
 ### Lampiran
 Tampilan Wireshark
-![Tampilan Wireshark](../assets/image/tampilanWireshark.png)
+![Tampilan Wireshark](assets/image/tampilanWireshark.png)
 Tampilan Capture from Wi-Fi
-![Tampilan Capture from Wi-Fi](../assets/image/tampilanCaptureFromWifi.png)
+![Tampilan Capture from Wi-Fi](assets/image/tampilanCaptureFromWifi.png)
 Tampilan Browser pada link html
-![Tampilan Browser pada link html](../assets/image/tampilanBrowserPadaLinkHtml.png)
+![Tampilan Browser pada link html](assets/image/tampilanBrowserPadaLinkHtml.png)
 Tampilan Capture from Wi-Fi With Filter HTTP
-![Tampilan Capture from Wi-Fi With Filter HTTP](../assets/image/tampilanCaptureFromWifiWithFilterHTTP.png)
+![Tampilan Capture from Wi-Fi With Filter HTTP](assets/image/tampilanCaptureFromWifiWithFilterHTTP.png)
 Line-Based Text Data: text/html from GET html
-![Line-Based Text Data: text/html](../assets/image/lineBasedTextDataHtmlVer.png)
+![Line-Based Text Data: text/html](assets/image/lineBasedTextDataHtmlVer.png)
