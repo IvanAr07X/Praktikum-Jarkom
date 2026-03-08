@@ -19,27 +19,27 @@ __________________________________________
 ### Lampiran
 - Download page
 ![Wireshark Website](../assets/image/wiresharkWebsite.png)
-- Installation Part 1
+- Installation Part 1<br>
 ![install setup part 1](../assets/image/installationSetupPart1.png)
-- Installation Part 2
+- Installation Part 2<br>
 ![install setup part 2](../assets/image/installationSetupPart2.png)
-- Installation Part 3
+- Installation Part 3<br>
 ![install setup part 3](../assets/image/installationSetupPart3.png)
-- Installation Part 4
+- Installation Part 4<br>
 ![install setup part 4](../assets/image/installationSetupPart4.png)
-- Installation Part 5
+- Installation Part 5<br>
 ![install setup part 5](../assets/image/installationSetupPart5.png)
-- Installation Part 6
+- Installation Part 6<br>
 ![install setup part 6](../assets/image/installationSetupPart6.png)
-- Installation Part 7
+- Installation Part 7<br>
 ![install setup part 7](../assets/image/installationSetupPart7.png)
-- Installation Part 8
+- Installation Part 8<br>
 ![install setup part 8](../assets/image/installationSetupPart8.png)
-- Installation Part 9
+- Installation Part 9<br>
 ![install setup part 9](../assets/image/installationSetupPart9.png)
-- Installation Part 10
+- Installation Part 10<br>
 ![install setup part 10](../assets/image/installationSetupPart10.png)
-- Installation Done
+- Installation Done<br>
 ![install setup done](../assets/image/installationSetupDone.png)
 
 
