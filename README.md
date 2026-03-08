@@ -3,12 +3,10 @@ Tugas Praktikum Jaringan komputer dari week pertama sampai week terakhir
 
 ## Project Structure
 ```
-Praktikum-Jarkom
+├───README.md
 │   
 ├───assets
 │   └───image
 │
-├───week1
-│
-└───README.md
+└───week1
 ```
