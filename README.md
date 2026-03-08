@@ -1,2 +1,13 @@
 # Praktikum-Jarkom
-Tugas Praktikum Jarkom dari week pertama sampai week terakhir
+Tugas Praktikum Jaringan komputer dari week pertama sampai week terakhir
+
+'''
+Praktikum-Jarkom
+│   
+├───assets
+│   └───image
+│
+├───week1
+│
+└───README.md
+'''
