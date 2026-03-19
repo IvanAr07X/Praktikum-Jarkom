@@ -38,8 +38,8 @@ Congratulations! You've download the first Wireshark lab file!
 </html>\n
 ```
 
-**Untuk keluar bisa klik stop capture pada menu, kemudian close this capture file**
-*<small style="font-size:80%;">Sama seperti laporan pada minggu pertama</small>*<br>
+**Untuk keluar bisa klik stop capture pada menu, kemudian close this capture file**<br>
+*<small style="font-size:40%;">Sama seperti laporan pada minggu pertama</small>*<br>
 
 ##### Lampiran
 - Tampilan Wireshark
