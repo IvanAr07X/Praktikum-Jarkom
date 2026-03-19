@@ -58,7 +58,7 @@ Congratulations! You've download the first Wireshark lab file!
 ##### Penjelasan Singkat
 <p>
 HTTP conditional/response interaction merupakan mekanisme dalam protokol HTTP di mana client meminta resource dari server hanya jika resource tersebut telah (berubah sejak terakhir diambil). Jika tidak ada perubahan, maka server tidak akan mengirim ulang data, sehingga menghemat bandwidth dan mempercepat loading.
-</p><br>
+</p>
 
 ##### Langkah-langkah HTTP CONDITIONAL GET/response interaction:
 1. Buka Wireshark terlebih dahulu
@@ -115,7 +115,7 @@ field in your browser's HTTP GET request to the server.\n
 #### Penjelasan Singkat
 <p>
 HTTP message formats merupakan struktur atau format pesan yang digunakan dalam komunikasi HTTP antara client dan server. Pesannya biasanya berupa browser yang mengirim pesan request (dari client ke server) dan server yang mengirim pesan response (dari server ke client).
-</p><br>
+</p>
 
 #### Langkah-langkah HTTP message formats:
 1. Buka Wireshark terlebih dahulu
@@ -151,7 +151,7 @@ HTTP message formats merupakan struktur atau format pesan yang digunakan dalam k
 #### Penjelasan Singkat
 <p>
 HTTP file with embedded objects merupakan sebuah file utama yang berisi objek-objek lain seperti gambar, CSS, atau JavaScript yang juga harus diambil dari server.
-</p><br>
+</p>
 
 #### Langkah-langkah HTTP file with embedded objects:
 1. Buka Wireshark terlebih dahulu
@@ -189,7 +189,7 @@ HTTP file with embedded objects merupakan sebuah file utama yang berisi objek-ob
 #### Penjelasan Singkat
 <p>
 HTTP authentication and security merupakan konsep dalam HTTP ynag digunakan untuk memverifikasi identitas pengguna (authentication) dan melindungi data yang dikirimkan antara client dan server (security).
-</p><br>
+</p>
 
 #### Langkah-langkah HTTP authentication and security:
 1. Buka Wireshark terlebih dahulu
