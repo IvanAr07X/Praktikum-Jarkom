@@ -22,7 +22,7 @@ __________________________________________
 - Download page
 ![Wireshark Website](../assets/image/fromWeb/wiresharkWebsite.png)
 - Installation Part 1<br>
-![install setup part 1](../assets/image/installationSetupPart1.png)
+![install setup part 1](../assets/image/fromDesktop/installationSetupPart1.png)
 - Installation Part 2<br>
 ![install setup part 2](../assets/image/fromDesktop/installationSetupPart2.png)
 - Installation Part 3<br>

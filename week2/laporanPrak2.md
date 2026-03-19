@@ -39,7 +39,7 @@ Congratulations! You've download the first Wireshark lab file!
 ```
 
 **Untuk keluar bisa klik stop capture pada menu, kemudian close this capture file**
-*<small>Sama seperti laporan pada minggu pertama</small>*<br>
+*<small style="font-size:80%;">Sama seperti laporan pada minggu pertama</small>*<br>
 
 ##### Lampiran
 - Tampilan Wireshark
@@ -51,7 +51,7 @@ Congratulations! You've download the first Wireshark lab file!
 - Tampilan Capture from Wi-Fi With Filter HTTP
 ![Tampilan Capture from Wi-Fi With Filter HTTP 1](../assets/image/fromWireshark/tampilanCaptureFromWifiWithFilterHTTP.png)
 - Line-Based Text Data: text/html from GET html Normal
-![Line-Based Text Data: text/html 1](../assets/image/fromWireshark/lineBasedTextDataHtmlVer.png)
+![Line-Based Text Data: text/html 1](../assets/image/fromWireshark/lineBasedTextDataHtmlVer.png)<br><br><br>
 
 #### HTTP CONDITIONAL GET/Response Interaction
 
@@ -91,7 +91,7 @@ field in your browser's HTTP GET request to the server.\n
 </html>\n
 ```
 
-*If-Modified-Since memiliki waktu terakhir kali diubah pada server, bukan pada saat waktu anda refresh browser tersebut*
+*If-Modified-Since memiliki waktu terakhir kali diubah pada server, bukan pada saat waktu anda refresh browser tersebut*<br>
 **Untuk keluar bisa klik stop capture pada menu, kemudian close this capture file**<br>
 
 ##### Lampiran
@@ -108,7 +108,7 @@ field in your browser's HTTP GET request to the server.\n
 - Hypertext Transfer Protocol 2 (setelah refresh)
 ![Hypertext Transfer Protocol Conditional Response](../assets/image/fromWireshark/hyperTransferProtocolConditionalResponse.png)
 - Line-Based Text Data: text/html from GET html Conditional
-![Line-Based Text Data: text/html 2](../assets/image/fromWireshark/lineBasedTextDataHtmlVer1.png)<br>
+![Line-Based Text Data: text/html 2](../assets/image/fromWireshark/lineBasedTextDataHtmlVer1.png)<br><br><br>
 
 ### HTTP Message Formats
 
@@ -144,7 +144,7 @@ HTTP message formats merupakan struktur atau format pesan yang digunakan dalam k
 - Hypertext Transfer Protocol 2 (Response)
 ![Hypertext Transfer Protocol 2 (Response)](../assets/image/fromWireshark/hyperTransferProtocolResponse.png)
 - Line-Based Text Data: text/html (long text)
-![Line-Based Text Data: text/html 3](../assets/image/fromWireshark/lineBasedTextDataHtmlVer2.png)<br>
+![Line-Based Text Data: text/html 3](../assets/image/fromWireshark/lineBasedTextDataHtmlVer2.png)<br><br><br>
 
 ### HTTP File with Embedded Objects
 
@@ -182,7 +182,7 @@ HTTP file with embedded objects merupakan sebuah file utama yang berisi objek-ob
 - Hypertext Transfer Protocol 4 (8E_cover_small.jpg)
 ![Hypertext Transfer Protocol 4 (8E_cover_small.jpg)](../assets/image/fromWireshark/hypertextTransferProtocol8E_cover_smallJpg.png)
 - JPEG FIle Interchange Format
-![JPEG FIle Interchange Format](../assets/image/fromWireshark/jpegFileInterchangeFormat.png)<br>
+![JPEG FIle Interchange Format](../assets/image/fromWireshark/jpegFileInterchangeFormat.png)<br><br><br>
 
 ### HTTP Authentication And Security
 
