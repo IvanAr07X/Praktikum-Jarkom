@@ -91,7 +91,8 @@ field in your browser's HTTP GET request to the server.\n
 </html>\n
 ```
 
-*If-Modified-Since memiliki waktu terakhir kali diubah pada server, bukan pada saat waktu anda refresh browser tersebut*<br>
+*If-Modified-Since memiliki waktu terakhir kali diubah pada server, bukan pada saat waktu anda refresh browser tersebut*
+
 **Untuk keluar bisa klik stop capture pada menu, kemudian close this capture file**<br>
 
 ##### Lampiran
@@ -188,7 +189,7 @@ HTTP file with embedded objects merupakan sebuah file utama yang berisi objek-ob
 
 #### Penjelasan Singkat
 <p>
-HTTP authentication and security merupakan konsep dalam HTTP ynag digunakan untuk memverifikasi identitas pengguna (authentication) dan melindungi data yang dikirimkan antara client dan server (security).
+HTTP authentication and security merupakan konsep dalam HTTP yang digunakan untuk memverifikasi identitas pengguna (authentication) dan melindungi data yang dikirimkan antara client dan server (security).
 </p>
 
 #### Langkah-langkah HTTP authentication and security:
