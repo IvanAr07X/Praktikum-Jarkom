@@ -1,5 +1,5 @@
 # Praktikum-Jarkom
-Tugas Praktikum Jaringan komputer dari week pertama sampai week terakhir
+Tugas Praktikum Jaringan komputer dari week pertama sampai week terakhir.
 
 ## Project Structure
 ```
@@ -11,5 +11,8 @@ Tugas Praktikum Jaringan komputer dari week pertama sampai week terakhir
 │       └───fromWireshark
 ├───week1
 ├───week2
+├───week3
+├───week4
+├───week5
 └───README.md
 ```
