@@ -26,13 +26,13 @@ Output klien & server:
 #### udp-client\.py
 <p align="justify"><strong>udp-client.py</strong> membuat socket bertipe <kbd>SOCK_DGRAM</kbd>, lalu menggunakan <kbd>sendto()</kbd> untuk mengrim data beserta alamat tujuan. Setelah itu, menunggu respon dengan <kbd>recvfrom()</kbd>. Yang harus diperhatikan pada UDP klien harus secara eksplisit melampirkan alaamat tujuan ke setiap paket karena UDP tidak memiliki koneksi tetap.</p>
 
-Code:
+Code:<br>
 ![delete browser history](../assets/image/fromVScode/udpClient.png)<br>
 
 #### udp-server\.py
 <p align="justify"><strong>udp-server.py</strong> membuat socket serupa, lalu melakukan <kbd>bind()</kbd> ke port tertentu (12000) agar siap menerima paket. Server berjalan dalam loop yang menerima paket, mengubah ke huruf kapital, lalu mengirimkan kembali ke alamat klien.</p>
 
-Code:
+Code:<br>
 ![delete browser history](../assets/image/fromVScode/udpServer.png)<br>
 
 ### Program Socket dengan TCP
@@ -44,11 +44,11 @@ Output klien & server:
 #### tcp-client\.py
 <p align="justify"><strong>tcp-client.py</strong> membuat socket bertipe <kbd>SOCK_STREAM</kbd>, kemudian memanggil <kbd>connect()</kbd> untuk memulai koneksi TCP. Data cukup dikirim dengan <kbd>send()</kbd> tanpa perlu melampirkan alamat tujuan, karena koneksi sudah terbentuk.</p>
 
-Code:
+Code:<br>
 ![delete browser history](../assets/image/fromVScode/tcpClient.png)<br>
 
 #### tcp-server\.py
 <p align="justify"><strong>tcp-server.py</strong> memiliki dua socket yaitu welcoming socket (<kbd>serverSocket</kbd>) dan <kbd>connectionSocket</kbd> yang dibuat khusus untuk setiap klien saat <kbd>accept()</kbd> dipanggil.</p>
 
-Code:
+Code:<br>
 ![delete browser history](../assets/image/fromVScode/tcpServer.png)<br>
