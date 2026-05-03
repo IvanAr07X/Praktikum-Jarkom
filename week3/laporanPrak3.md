@@ -113,7 +113,7 @@ ipconfig /flushdns
 Pertama kosngkan terlebih dahulu cacatan DNS host.
 ![ipconfig /flushdns](../assets/image/fromCMD/ipconfig2.png)<br>
 
-Kemudian buka broswer dan kosongkan cache-nya.
+Kemudian buka broswer dan kosongkan cache-nya.<br>
 ![delete browser history](../assets/image/fromWeb/deleteBrowserHistory.png)<br>
 
 Ketik "ipconfig" pada command prompt, kemudian scroll ke bagian IP Wi-Fi dan catatan IP-nya (digunakan untuk filter).
