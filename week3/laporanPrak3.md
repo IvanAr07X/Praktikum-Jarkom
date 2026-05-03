@@ -355,7 +355,7 @@ Gunakan link ini http://gaia.cs.umass.edu/wireshark-labs/wireshark-traces.zip (d
         <br><img src="../assets/image/fromWireshark/wiresharkFilter5Crop.png" alt="Wireshark UDP with filter ip (mengirim)">
         <br><img src="../assets/image/fromWireshark/UDP3.png" alt="Wireshark UDP with filter ip (menerima)"><br>
         <p align="justify">
-        Pada paket UDP pertama terdapat port sumber yaitu 4334 (ephemeral atau acak) dan port tujuan yaitu 161 yang bertindak sebagai klien. Sedangkan pada paket UDP kedua terdapat port sumber yaitu 161 dan port tujuan yaitu 4334 yang bertindak sebagai server. Hubungan kedua saling berkait karena paket satu terhubung dengan paket dua sebagai pengirim dan paket dua terhubung dengan paket satu sebagai penerima.
+        Pada paket UDP pertama terdapat port sumber yaitu 4334 (ephemeral atau acak) dan port tujuan yaitu 161 yang bertindak sebagai klien. Sedangkan pada paket UDP kedua terdapat port sumber yaitu 161 dan port tujuan yaitu 4334 yang bertindak sebagai server. Hubungan keduanya saling berkait karena paket satu terhubung dengan paket dua sebagai pengirim dan paket dua terhubung dengan paket satu sebagai penerima.
         </p>
     </li>
 </ol>
