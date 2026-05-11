@@ -12,7 +12,7 @@ __________________________________________
 
 ## IP (Modul 10)
 
-Jawabanlah petanyaan berikut.
+Jawabanlah pertanyaan berikut.
 1. Apa itu IP address?
 2. Traceroute dari suatu website.
 3. Apa itu ICMP, MTU, TTL?
