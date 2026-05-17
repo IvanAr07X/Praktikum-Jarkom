@@ -6,9 +6,9 @@ Tugas Praktikum Jaringan komputer dari week pertama sampai week terakhir.
 │ 
 ├───assets
 │   └───image
-        ├───fromCMD
+│       ├───fromCMD
 │       ├───fromDesktop
-        ├───fromVScode
+│       ├───fromVScode
 │       ├───fromWeb
 │       └───fromWireshark
 ├───week1
@@ -16,5 +16,8 @@ Tugas Praktikum Jaringan komputer dari week pertama sampai week terakhir.
 ├───week3
 ├───week4
 ├───week5
+├───week6
+├───week7
+├───week9
 └───README.md
 ```
