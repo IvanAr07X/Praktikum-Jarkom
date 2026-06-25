@@ -19,5 +19,8 @@ Tugas Praktikum Jaringan komputer dari week pertama sampai week terakhir.
 ├───week6
 ├───week7
 ├───week9
+├───week10
+├───week11
+├───week12
 └───README.md
 ```
