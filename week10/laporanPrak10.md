@@ -92,7 +92,7 @@ Menangkap paket yang dihasilkan oleh program Ping (paket ICMP).
 <ol>
     <li>Pertama buka wireshark, lalu pilih capture pada Wi-Fi.</li>
     <li>
-    Kemudian, buka CMD. Lalu ketik <kbd>ping -n 10 www.ust.hk</kbd>.c                                                                                                                                   
+    Kemudian, buka CMD. Lalu ketik <kbd>ping -n 10 www.ust.hk</kbd>.                                                                                                                                   
     <img src="../assets/image/fromCMD/ping.png" alt="Tampilan ping pada CMD"><br>
     </li>
     <li>Lalu stop capturing pada Wi-Fi.</li>
